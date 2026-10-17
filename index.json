@@ -1,0 +1,11 @@
+{
+  "org": "Lightning-AI",
+  "repo": "pytorch-lightning",
+  "versions": [
+    {
+      "commit": "84df182f50ab34301aabb3c0eb4031815bfb413d",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:10:25.682849+00:00"
+    }
+  ]
+}
