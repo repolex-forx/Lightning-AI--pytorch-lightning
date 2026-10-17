@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Lightning-AI/pytorch-lightning/commit/84df182f50ab34301aabb3c0eb4031815bfb413d",
       "git:hexsha": "84df182f50ab34301aabb3c0eb4031815bfb413d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Lightning-AI/pytorch-lightning/commit/52f33ac320693331c006060c151b97a1a2eaa57f",
